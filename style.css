@@ -50,3 +50,10 @@ h1{
 .fist_span{
     color: darkslateblue;
 }
+.div_01{
+    
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
